@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Website", "src\Website\Webs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "src\JavaScriptClient\JavaScriptClient.csproj", "{2B73CCB0-19C2-47B3-9257-0901031736D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServerAspNetIdentity", "src\IdentityServerAspNetIdentity\IdentityServerAspNetIdentity.csproj", "{BC14C289-04D9-4213-9FC1-9C153BFD801B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,18 @@ Global
 		{2B73CCB0-19C2-47B3-9257-0901031736D6}.Release|x64.Build.0 = Release|Any CPU
 		{2B73CCB0-19C2-47B3-9257-0901031736D6}.Release|x86.ActiveCfg = Release|Any CPU
 		{2B73CCB0-19C2-47B3-9257-0901031736D6}.Release|x86.Build.0 = Release|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Debug|x64.Build.0 = Debug|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Debug|x86.Build.0 = Debug|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Release|x64.ActiveCfg = Release|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Release|x64.Build.0 = Release|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Release|x86.ActiveCfg = Release|Any CPU
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +109,7 @@ Global
 		{F4ED838F-D4DD-44A1-9BCA-28648723DFAD} = {A488DB85-B38A-48AD-A062-18807F0C9D6B}
 		{FC00ABB2-9312-4AC3-AD30-81117569F8CA} = {A488DB85-B38A-48AD-A062-18807F0C9D6B}
 		{2B73CCB0-19C2-47B3-9257-0901031736D6} = {A488DB85-B38A-48AD-A062-18807F0C9D6B}
+		{BC14C289-04D9-4213-9FC1-9C153BFD801B} = {A488DB85-B38A-48AD-A062-18807F0C9D6B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9BF1054D-6354-4222-A57F-DCA719587087}
